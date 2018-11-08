@@ -2012,61 +2012,6 @@ body {
 .cid-r8NJweumNZ P {
   color: #232323;
 }
-.cid-r8PdPA1H4a {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-r8PdPA1H4a .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-r8PdPA1H4a .mbr-content-text {
-  color: #767676;
-}
-.cid-r8PdPA1H4a .card {
-  word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-r8PdPA1H4a .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
-}
-.cid-r8PdPA1H4a .cards-container {
-  display: -webkit-flex;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-  justify-content: center;
-  -webkit-justify-content: center;
-  word-break: break-word;
-}
-.cid-r8PdPA1H4a .media-block {
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-  padding-left: 2rem;
-}
-.cid-r8PdPA1H4a .cards-block {
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-r8PdPA1H4a .card-img {
-  display: -webkit-flex;
-  align-items: center;
-  -webkit-align-items: center;
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-}
-@media (max-width: 991px) {
-  .cid-r8PdPA1H4a .media-block {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
-    padding-left: 0;
-    padding-bottom: 2rem;
-  }
-}
 .cid-r8Pcak4bNL {
   padding-top: 75px;
   padding-bottom: 0px;
