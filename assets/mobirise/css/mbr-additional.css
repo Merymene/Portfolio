@@ -3616,14 +3616,14 @@ nav.opened .hamburger span {
 @showSubTitle: false;
 @showText: false;
 @showButtons: false;
-@uname__12: "../../app/themes/mobirise4/components/header1/../_images/background5.jpg";
+@uname__12: "file:///C:/Users/Mery/AppData/Local/Mobirise.com/Mobirise/projects/project-2018-11-05_100814/assets/images/mbr-1920x1105.jpg";
 @uname__13: true;
 @uname__14: #886586;
-@bg-value: "../../app/themes/mobirise4/components/header1/../_images/background5.jpg";
+@bg-value: "file:///C:/Users/Mery/AppData/Local/Mobirise.com/Mobirise/projects/project-2018-11-05_100814/assets/images/mbr-1920x1105.jpg";
 @bg-type: "image";
 @bg-color-value: #886586;
 @bg-parallax: true;
-@overlay: false;
+@overlay: true;
 @overlayColor: #000000;
 @overlayOpacity: 0.2;
 
