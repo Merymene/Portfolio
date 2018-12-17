@@ -3691,3 +3691,204 @@ padding-bottom: (@paddingBottom * 15px);
   }
 }
 }
+
+.cid-rcvbn7py43 {
+@fullScreen: false;
+@paddingTop: 6;
+@paddingBottom: 6;
+@showTitle: true;
+@showSubTitle: false;
+@showText: true;
+@showButtons: false;
+@mediaSize: 100;
+@reverseContent: true;
+@uname__12: "../../app/themes/mobirise4/components/header3/../_images/background4.jpg";
+@uname__13: true;
+@uname__14: #ffffff;
+@bg-value: #ffffff;
+@bg-type: "color";
+@bg-color-value: #ffffff;
+@bg-parallax: false;
+@gradientBg: false;
+@color2: #000000;
+@overlay: false;
+@overlayColor: #000000;
+@overlayOpacity: 0.2;
+
+& when not (@fullScreen) {
+  padding-top: (@paddingTop * 15px);
+  padding-bottom: (@paddingBottom * 15px);
+}
+& when (@bg-type = 'color') {
+  background-color: @bg-value;
+  & when (@gradientBg) {
+    background: linear-gradient(45deg, @bg-value, @color2);
+  }
+}
+& when (@bg-type = 'image') {
+  background-image: url(../../../@bg-value);
+}
+& when (@reverseContent) {
+  .media-container-row {
+    flex-direction: row-reverse;
+    -webkit-flex-direction: row-reverse;
+  }
+}
+.mbr-figure {
+  @media (min-width: 992px) {
+    padding-right: 4rem;
+    & when (@reverseContent) {
+      padding-right: 0;
+      padding-left: 4rem;
+    }
+  }
+  @media (max-width: 991px) {
+    padding-bottom: 3rem;
+  }
+}
+.mbr-text {
+  @media (max-width: 767px) {
+    text-align: center;
+  }
+}
+H1 {
+  color: #ff3366;
+}
+.mbr-text, .mbr-section-btn {
+  color: #767676;
+}
+}
+
+.cid-rcvbnuHh1c {
+@fullScreen: false;
+@paddingTop: 6;
+@paddingBottom: 6;
+@showTitle: true;
+@showSubTitle: false;
+@showText: true;
+@showButtons: false;
+@mediaSize: 100;
+@reverseContent: false;
+@uname__12: "../../app/themes/mobirise4/components/header3/../_images/background4.jpg";
+@uname__13: true;
+@uname__14: #ffffff;
+@bg-value: #ffffff;
+@bg-type: "color";
+@bg-color-value: #ffffff;
+@bg-parallax: false;
+@gradientBg: false;
+@color2: #000000;
+@overlay: false;
+@overlayColor: #000000;
+@overlayOpacity: 0.2;
+
+& when not (@fullScreen) {
+  padding-top: (@paddingTop * 15px);
+  padding-bottom: (@paddingBottom * 15px);
+}
+& when (@bg-type = 'color') {
+  background-color: @bg-value;
+  & when (@gradientBg) {
+    background: linear-gradient(45deg, @bg-value, @color2);
+  }
+}
+& when (@bg-type = 'image') {
+  background-image: url(../../../@bg-value);
+}
+& when (@reverseContent) {
+  .media-container-row {
+    flex-direction: row-reverse;
+    -webkit-flex-direction: row-reverse;
+  }
+}
+.mbr-figure {
+  @media (min-width: 992px) {
+    padding-right: 4rem;
+    & when (@reverseContent) {
+      padding-right: 0;
+      padding-left: 4rem;
+    }
+  }
+  @media (max-width: 991px) {
+    padding-bottom: 3rem;
+  }
+}
+.mbr-text {
+  @media (max-width: 767px) {
+    text-align: center;
+  }
+}
+H1 {
+  color: #ff3366;
+}
+.mbr-text, .mbr-section-btn {
+  color: #767676;
+}
+}
+
+.cid-rcvbo9V3Op {
+@fullScreen: false;
+@paddingTop: 6;
+@paddingBottom: 6;
+@showTitle: true;
+@showSubTitle: false;
+@showText: true;
+@showButtons: false;
+@mediaSize: 100;
+@reverseContent: true;
+@uname__12: "../../app/themes/mobirise4/components/header3/../_images/background4.jpg";
+@uname__13: true;
+@uname__14: #ffffff;
+@bg-value: #ffffff;
+@bg-type: "color";
+@bg-color-value: #ffffff;
+@bg-parallax: false;
+@gradientBg: false;
+@color2: #ffffff;
+@overlay: false;
+@overlayColor: #000000;
+@overlayOpacity: 0.2;
+
+& when not (@fullScreen) {
+  padding-top: (@paddingTop * 15px);
+  padding-bottom: (@paddingBottom * 15px);
+}
+& when (@bg-type = 'color') {
+  background-color: @bg-value;
+  & when (@gradientBg) {
+    background: linear-gradient(45deg, @bg-value, @color2);
+  }
+}
+& when (@bg-type = 'image') {
+  background-image: url(../../../@bg-value);
+}
+& when (@reverseContent) {
+  .media-container-row {
+    flex-direction: row-reverse;
+    -webkit-flex-direction: row-reverse;
+  }
+}
+.mbr-figure {
+  @media (min-width: 992px) {
+    padding-right: 4rem;
+    & when (@reverseContent) {
+      padding-right: 0;
+      padding-left: 4rem;
+    }
+  }
+  @media (max-width: 991px) {
+    padding-bottom: 3rem;
+  }
+}
+.mbr-text {
+  @media (max-width: 767px) {
+    text-align: center;
+  }
+}
+H1 {
+  color: #ff3366;
+}
+.mbr-text, .mbr-section-btn {
+  color: #767676;
+}
+}
