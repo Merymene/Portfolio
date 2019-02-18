@@ -3653,6 +3653,10 @@ body {
 .cid-rcvrAXob85 .mbr-section-btn {
   color: #767676;
 }
+.cid-rcvrAXob85 .mbr-text,
+.cid-rcvrAXob85 .mbr-section-btn P {
+  color: #232323;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
